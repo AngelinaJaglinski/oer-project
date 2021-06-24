@@ -1,11 +1,11 @@
 # textbook information
 
-title: Title
+title: Introduction to Statistics
 subtitle: Subtitle
 
 author:
-  - name: First Author
-    affiliation: College
+  - name: John Smith
+    affiliation: Northwestern University
   - name: Second Author
     affiliation: University
 
